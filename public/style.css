@@ -1,0 +1,26 @@
+.template-form {
+    display: flex;
+    gap: 8px;
+}
+
+.room {
+    margin: 10px;
+}
+
+.button-group {
+    margin: 10px;
+}
+
+.milkdown-if11yz {
+    display: block !important;
+	margin: 24px auto !important;
+	width: unset !important;
+	max-width: 75% !important;
+}
+
+.tableWrapper {
+    display: block !important;
+	margin: 24px auto !important;
+	width: unset !important;
+	max-width: 75% !important;
+}
